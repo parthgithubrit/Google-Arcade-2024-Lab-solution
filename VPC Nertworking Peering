@@ -1,0 +1,12 @@
+export SECOND_PROJECT_ID=
+
+export ZONE_1=
+
+export ZONE_2=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/VPC%20Network%20Peering/quicklabgsp193.sh
+
+sudo chmod +x quicklabgsp193.sh
+
+./quicklabgsp193.sh
